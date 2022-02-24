@@ -36,5 +36,15 @@ img {
     margin: 30px;
     width: 300px;
     height: auto;
+}
+
+.description img {
     float: right;
+}
+
+.logo{
+    display: block;
+    margin: 2rem auto;
+    background-color: white;
+    border-radius: 150px;
 }
